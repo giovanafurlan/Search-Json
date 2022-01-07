@@ -1,0 +1,554 @@
+{
+    "search_metadata": {
+      "id": "61d78113af5af1a9779e08b4",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/e44a1d21b079ad3b/61d78113af5af1a9779e08b4.json",
+      "created_at": "2022-01-06 23:53:55 UTC",
+      "processed_at": "2022-01-06 23:53:55 UTC",
+      "google_url": "https://www.google.com.br/search?q=Coffee&oq=Coffee&uule=w+CAIQICIGQnJhemls&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/e44a1d21b079ad3b/61d78113af5af1a9779e08b4.html",
+      "total_time_taken": 5.17
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Coffee",
+      "location_requested": "Brazil",
+      "location_used": "Brazil",
+      "google_domain": "google.com.br",
+      "hl": "pt",
+      "gl": "br",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "query_displayed": "Coffee",
+      "total_results": 4690000000,
+      "time_taken_displayed": 0.6
+    },
+    "recipes_results": [
+      {
+        "title": "New Irish Coffee",
+        "link": "https://www.nespresso.com/recipes/br/pt/34150NEW-new-irish-coffee.html",
+        "source": "Nespresso",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPnCE7JWvLQGtH2fpCjxpI0eGPTWLg6GPTfJsa1rHf74UVmQOErkkjHQ&s=0"
+      },
+      {
+        "title": "Irish coffee",
+        "link": "https://paladar.estadao.com.br/receitas/irish-coffee,10000066782",
+        "source": "Paladar Estadão",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypVVIB5Nx4tcXCfS3z3fAutwqKPRR9asdPU2JY8gmDiTyhuiErM3i&s=0"
+      },
+      {
+        "title": "Dalgona Coffee",
+        "link": "https://cybercook.com.br/receitas/bebidas/bebidas-quentes/receita-de-dalgona-coffee-124213",
+        "source": "CyberCook",
+        "rating": 5.0,
+        "reviews": 2,
+        "total_time": "25 min",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbM-_5eQEyiTESulx3LQ4LLLkTh0ZK3nbjDjpNmK9nJioNo3JM2iI5hg&s=0"
+      }
+    ],
+    "local_map": {
+      "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee&npsic=0&rflfq=1&rldoc=1&rllag=-18292919,-46597984,336683&tbm=lcl&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQtgN6BAgoEAQ",
+      "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/89cfed5254fce38e537696c369fc4fae.png",
+      "gps_coordinates": {
+        "latitude": -18.292919,
+        "longitude": -46.597984,
+        "altitude": 336683
+      }
+    },
+    "local_results": {
+      "more_locations_link": "https://www.google.com.br/search?hl=pt&gl=br&tbs=lf:1,lf_ui:9&tbm=lcl&q=Coffee&rflfq=1&num=10&uule=w+CAIQICIGQnJhemls&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQjGp6BAgoEEg",
+      "places": [
+        {
+          "position": 1,
+          "title": "Mini Coffe Black Cafeteria",
+          "place_id": "2928746357880114472",
+          "lsig": "AB86z5UmMlEgrz6dkeii4cpjmG5m",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&lsig=AB86z5UmMlEgrz6dkeii4cpjmG5m&ludocid=2928746357880114472&q=Coffee&tbm=lcl",
+          "type": "Café",
+          "address": "Refeição no local · Para viagem",
+          "description": "Refeição no local·Para viagem",
+          "thumbnail": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/666be25545f00a5ec665a35607e2aa3fdc205365fdf09e07593b98ba4a12679047aa7b649c2cd214.png",
+          "gps_coordinates": {
+            "latitude": -16.640547,
+            "longitude": -49.27326
+          }
+        },
+        {
+          "position": 2,
+          "title": "Cafeteria Coffee Time",
+          "place_id": "13456806165538587490",
+          "lsig": "AB86z5UzLBfjXhoRW5MM74FAESdN",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&lsig=AB86z5UzLBfjXhoRW5MM74FAESdN&ludocid=13456806165538587490&q=Coffee&tbm=lcl",
+          "type": "Café",
+          "address": "Refeição no local · Para viagem",
+          "description": "Refeição no local·Para viagem",
+          "thumbnail": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/666be25545f00a5ec665a35607e2aa3f6aa4523bda88b20fdeca5dc05e41be5fa20e6929b3983f15.png",
+          "gps_coordinates": {
+            "latitude": -18.910782,
+            "longitude": -48.209663
+          }
+        },
+        {
+          "position": 3,
+          "title": "Coffeebar Ideias Gournet",
+          "place_id": "3054557333171494536",
+          "lsig": "AB86z5UnB0-NhOP8VKd1vgKt9r_C",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&lsig=AB86z5UnB0-NhOP8VKd1vgKt9r_C&ludocid=3054557333171494536&q=Coffee&tbm=lcl",
+          "rating": 5.0,
+          "reviews": 4,
+          "type": "Café",
+          "hours": "Refeição no local",
+          "address": "Belo Horizonte - MG",
+          "description": "Refeição no local",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMtfQMQ86zV9PCEhRhTNKJDsKkl87Lt-qkDuTgw=w92-h92-n-k-no",
+          "gps_coordinates": {
+            "latitude": -19.945292,
+            "longitude": -43.922707
+          }
+        }
+      ]
+    },
+    "knowledge_graph": {
+      "title": "Café",
+      "type": "Bebida",
+      "header_images": [
+        {
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acd31f5d46e57c235c3a3ad1a956cab0d01ee3501e0a6a2c66.jpeg",
+          "source": "https://revistagalileu.globo.com/Ciencia/noticia/2016/10/8-fatos-cientificos-que-todo-apaixonado-por-cafe-deveria-saber.html"
+        },
+        {
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acd31f5d46e57c235c8850b79baaca7bbf6d6600f49303a5be.jpeg",
+          "source": "https://unsplash.com/images/food/coffee"
+        },
+        {
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acd31f5d46e57c235ca58361692a999cc4270792abb9123879.jpeg",
+          "source": "https://gocoffee.com.br/"
+        },
+        {
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acd31f5d46e57c235c2609c59528f2681d9510fc0ec766835b.jpeg",
+          "source": "https://www.coffeeaddress.com/"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcA-hB6iIjkRGXU9VnculP3X2ixvOcr2OW_05m_4ltww&s",
+          "source": "https://unsplash.com/images/food/coffee"
+        }
+      ],
+      "description": "O café é uma bebida produzida a partir dos grãos torrados do fruto do cafeeiro. É servido tradicionalmente quente, mas também pode ser consumido gelado. O café é um estimulante, por possuir cafeína — geralmente 80 a 140 mg para cada 207 ml dependendo do método de preparação.",
+      "source": {
+        "name": "Wikipédia",
+        "link": "https://pt.wikipedia.org/wiki/Caf%C3%A9"
+      },
+      "também_pesquisados": [
+        {
+          "name": "Chá",
+          "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Ch%C3%A1&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4gAxzZNzKrQEgzNTUssTK4v9UitKgktSC4oXsbI4ZxxeuIOVEQBVGDZHNAAAAA&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQxA16BAghEAU",
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acb74f8d948e5bf0d09a350eb56019277fef5b2951638d501394bfa0fd5f8482c9.jpeg"
+        },
+        {
+          "name": "Café expresso",
+          "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Caf%C3%A9+expresso&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4gAxk0vSsrUEgzNTUssTK4v9UitKgktSC4oXsfI5J6YdXqmQWlFQlFpcnL-DlREAvz6JFj4AAAA&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQxA16BAghEAc",
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acb74f8d948e5bf0d09a350eb56019277feb3b4d1bbfeccb5a9a8e84e455b7766f.jpeg"
+        },
+        {
+          "name": "Bebida",
+          "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Bebida&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4tZP1zc0MkoryDMr0hIMzkxJLU-sLPZLrSgJLkktKF7EyuaUmpSZkriDlREAIItDGTkAAAA&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQxA16BAghEAk",
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acb74f8d948e5bf0d09a350eb56019277fb460be052e6dff358a0320354dc32ef2.jpeg"
+        },
+        {
+          "name": "Café Gelado",
+          "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Caf%C3%A9+Gelado&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVAjNNs5PKDLUEgzNTUssTK4v9UitKgktSC4oXsfI4J6YdXqngnpqTmJK_g5URAAqjjM89AAAA&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQxA16BAghEAs",
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acb74f8d948e5bf0d09a350eb56019277fb69543ada7bd47ce89b6ad19cbaee334.jpeg"
+        },
+        {
+          "name": "Cappuccino",
+          "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Cappuccino&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4gAxLc0NjLQEgzNTUssTK4v9UitKgktSC4oXsXI5JxYUlCYnZ-bl72BlBAAUqfDUOgAAAA&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQxA16BAghEA0",
+          "image": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/c1131aac60b82d1fc2941a487920b2acb74f8d948e5bf0d09a350eb56019277f29a62d6056b2fb60698dce9bd2b9a686.jpeg"
+        }
+      ],
+      "também_pesquisados_link": "https://www.google.com.br/search?hl=pt&gl=br&q=Caf%C3%A9&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOiemHV65g5URACehra02AAAA&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQMSgAegQIIRAB",
+      "também_pesquisados_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOiemHV65g5URACehra02AAAA",
+      "list": {
+        "gorduras_totais": [
+          "0 g"
+        ],
+        "gorduras_saturadas": [
+          "0 g"
+        ],
+        "gorduras_trans": [
+          "0 g"
+        ],
+        "colesterol": [
+          "0 mg"
+        ],
+        "sódio": [
+          "2 mg"
+        ],
+        "potássio": [
+          "49 mg"
+        ],
+        "carboidratos": [
+          "0 g"
+        ],
+        "fibra_alimentar": [
+          "0 g"
+        ],
+        "açúcar": [
+          "0 g"
+        ],
+        "proteínas": [
+          "0,1 g"
+        ],
+        "cafeína": [
+          "40 mg"
+        ],
+        "vitamina_c": [
+          "0 mg"
+        ],
+        "cálcio": [
+          "2 mg"
+        ],
+        "ferro": [
+          "0 mg"
+        ],
+        "vitamina_d": [
+          "0 IU"
+        ],
+        "vitamina_b6": [
+          "0 mg"
+        ],
+        "cobalamina": [
+          "0 µg"
+        ],
+        "magnésio": [
+          "3 mg"
+        ]
+      }
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Beabadoobee - Coffee",
+        "link": "https://www.youtube.com/watch?v=C6CeA6vRtW4",
+        "thumbnail": "https://i.ytimg.com/vi/C6CeA6vRtW4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lxlj8mR2orEkgAvcZU4MwOpbl3YQ",
+        "channel": "Beabadoobee",
+        "duration": "1:58",
+        "platform": "YouTube",
+        "date": "26 de mar. de 2020"
+      },
+      {
+        "position": 2,
+        "title": "Miguel - Coffee (Official Video)",
+        "link": "https://www.youtube.com/watch?v=9Z55sZ2oVY4",
+        "thumbnail": "https://i.ytimg.com/vi/9Z55sZ2oVY4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lmDn7L-Zz_UkQc8VRe31tGhwpykg",
+        "channel": "MiguelVEVO",
+        "duration": "4:55",
+        "platform": "YouTube",
+        "date": "16 de jun. de 2015"
+      },
+      {
+        "position": 3,
+        "title": "Coffee Around The World",
+        "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI",
+        "thumbnail": "https://i.ytimg.com/vi/aBLYSO0DSVI/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kelY6Yq37Q9S0mzxWE0kdYL-0_Yg",
+        "channel": "BuzzFeed Multiplayer",
+        "duration": "3:14",
+        "platform": "YouTube",
+        "date": "25 de jan. de 2015",
+        "key_moments": [
+          {
+            "time": "00:08",
+            "title": "PORTUGAL MAZAGRAN",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=8",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqUoOvG6uY9ofaHOu7bZ9Yd5X7wikQGoA1TTXVyCSbg&s",
+            "percentage": 4
+          },
+          {
+            "time": "00:13",
+            "title": "1/2 CUP LEMON JUICE",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=13",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkFSutye6cR9aOFDAkK_PEYKpzCIFkwIpDk-Jx5OE1g&s",
+            "percentage": 7
+          },
+          {
+            "time": "00:26",
+            "title": "GERMANY EISKAFFEE",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=26",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf3WpZOndQuF0zvE5C1gJZDLPjKv2gQTNL_Yah4KXOg&s",
+            "percentage": 13
+          },
+          {
+            "time": "00:37",
+            "title": "TOP OFF WITH WHIPPED CREAM",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=37",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLjUw0nRkgFgfbviESHCNi_SMeNFa5TGANYyi2NLenA&s",
+            "percentage": 19
+          },
+          {
+            "time": "00:44",
+            "title": "VIETNAM CA PHE SUA DA",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=44",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaL6qmDkFehJI0Tyr0yjC33p7cyuOUCEYGG53jrrJ_lw&s",
+            "percentage": 23
+          },
+          {
+            "time": "01:06",
+            "title": "FRANCE CAFÉ AU LAIT",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=66",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaQ0A5NglZSOXcrtqRx5d9pLphcabp2SXJAk6leDa2Q&s",
+            "percentage": 34
+          },
+          {
+            "time": "01:19",
+            "title": "GREECE FRAPPÉ",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=79",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLRgnTmGnWvqU8lldoY9Qm-79eLTi9LUjXRsxQTzbbOw&s",
+            "percentage": 41
+          },
+          {
+            "time": "01:58",
+            "title": "1 PART BLACK TEA",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=118",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28xaPdJw1VoOrJEOecq6fpbrTogw2ZlGlOq4aUogrgA&s",
+            "percentage": 61
+          },
+          {
+            "time": "02:38",
+            "title": "IRELAND IRISH COFFEE",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=158",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKIo_1pVhBmmoXPvpvbzq2nkmwxNTStR6YVlau3kOxw&s",
+            "percentage": 81
+          },
+          {
+            "time": "02:56",
+            "title": "HOW DO YOU LIKE YOUR COFFEE?",
+            "link": "https://www.youtube.com/watch?v=aBLYSO0DSVI&t=176",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUSckNRHAtOK6jaaV9hFMHZ-fiVtvyg2W_Wh2k9X7mw&s",
+            "percentage": 91
+          }
+        ]
+      }
+    ],
+    "answer_box": {
+      "type": "resultado_da_tradução",
+      "translation": {
+        "source": {
+          "language": "Inglês",
+          "text": "Coffee"
+        },
+        "target": {
+          "language": "Português",
+          "text": "Café"
+        }
+      }
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Coffee Mais - Cafés especiais: conheça e escolha o seu!",
+        "link": "https://coffeemais.com/",
+        "displayed_link": "https://coffeemais.com",
+        "snippet": "Conheça os cafés especiais da Coffee++ e escolha o que combina com o seu dia! Aqui você conhece as histórias dos produtores. Confira!",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Drip Coffee",
+              "link": "https://coffeemais.com/collections/drip"
+            },
+            {
+              "title": "Coffee IsCool",
+              "link": "https://blog.coffeemais.com/"
+            },
+            {
+              "title": "Café Geisha Drip Coffee 10...",
+              "link": "https://coffeemais.com/products/drip-coffee-geisha"
+            }
+          ]
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:d9Ms-Gk7QPMJ:https://coffeemais.com/pages/todos-produtos+&cd=3&hl=pt-BR&ct=clnk&gl=br",
+        "related_results": [
+          {
+            "position": 1,
+            "title": "Todos Produtos – Coffee Mais",
+            "link": "https://coffeemais.com/pages/todos-produtos",
+            "displayed_link": "https://coffeemais.com › pages › todos-produtos",
+            "snippet": "Coffee Mais. Kits ++PROMO · Beba++CaféConheça Nossos Produtos · RevendaCafés para Compra em Atacado · AcessóriosLoja de acessórios.",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:d9Ms-Gk7QPMJ:https://coffeemais.com/pages/todos-produtos+&cd=3&hl=pt-BR&ct=clnk&gl=br"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "The Coffee",
+        "link": "http://www.thecoffee.jp/",
+        "displayed_link": "http://www.thecoffee.jp",
+        "snippet": "Inspired by everything we saw there, The Coffee was designed. The best of Brazilian coffee combined with the purity of japan. Grab and to go. Simple. Brasil.",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "The Coffee Reitoria",
+              "link": "https://www.thecoffee.jp/shortcut/brasil/curitiba/the-coffee-reitoria"
+            },
+            {
+              "title": "The Coffee Comendador",
+              "link": "https://www.thecoffee.jp/shortcut/brasil/curitiba/the-coffee-comendador"
+            },
+            {
+              "title": "The Coffee Prudente",
+              "link": "https://www.thecoffee.jp/shortcut/brasil/curitiba/the-coffee-prudente"
+            },
+            {
+              "title": "44",
+              "link": "https://www.thecoffee.jp/workwithus"
+            }
+          ]
+        },
+        "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:srwG0isBRJUJ:www.thecoffee.jp/+&cd=4&hl=pt-BR&ct=clnk&gl=br"
+      },
+      {
+        "position": 3,
+        "title": "Coffee: Perfumaria Feminina e Masculina | O Boticário",
+        "link": "https://www.boticario.com.br/coffee/",
+        "displayed_link": "https://www.boticario.com.br › coffee",
+        "thumbnail": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/5b5810d18bee265396959c4f1db0e6ae4e10fd6a4cf701e1ddd982c91df6fdd3.jpeg",
+        "snippet": "Conheça a linha Coffee perfumaria masculina e feminina de O Boticário e encontre os melhores produtos para seu cuidado pessoal. Confira e compre online!",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Coffee Seduction",
+              "link": "https://www.boticario.com.br/coffee/seduction/"
+            },
+            {
+              "title": "Coffee Duo",
+              "link": "https://www.boticario.com.br/coffee/duo/"
+            },
+            {
+              "title": "Coffee Sense",
+              "link": "https://www.boticario.com.br/coffee/sense/"
+            },
+            {
+              "title": "Coffee Fusion",
+              "link": "https://www.boticario.com.br/coffee/fusion/"
+            }
+          ]
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iR6BcZxU4SkJ:https://www.boticario.com.br/coffee/+&cd=8&hl=pt-BR&ct=clnk&gl=br"
+      },
+      {
+        "position": 4,
+        "title": "#CoffeeMais (@coffeemais) • Instagram photos and videos",
+        "link": "https://www.instagram.com/coffeemais/",
+        "displayed_link": "https://www.instagram.com › coffeemais",
+        "snippet": "Coffee ++'s profile picture. Coffee ++. Produtos's profile picture. Produtos. Métodos's profile picture. Métodos. Café Aprígio's profile picture.",
+        "related_results": [
+          {
+            "position": 1,
+            "title": "the coffee ザ・コーヒー (@_the_coffee_) • Instagram photos ...",
+            "link": "https://www.instagram.com/_the_coffee_/",
+            "displayed_link": "https://www.instagram.com › _the_coffee_",
+            "snippet": "120k Followers, 169 Following, 246 Posts - See Instagram photos and videos from the coffee ザ・コーヒー (@_the_coffee_)"
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "Go Coffee – Expresso e Contemporâneo",
+        "link": "https://gocoffee.com.br/",
+        "displayed_link": "https://gocoffee.com.br",
+        "thumbnail": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/5b5810d18bee265396959c4f1db0e6ae6f8885257e9080738fc7e5a0daa26aaa.jpeg",
+        "snippet": "A Go Coffee surgiu da inquietude de seus criadores por trazer algo diferente do antes visto na cidade de origem, Curitiba. Uma cafeteria com conceito ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jpFtKg-N2qUJ:https://gocoffee.com.br/+&cd=11&hl=pt-BR&ct=clnk&gl=br"
+      },
+      {
+        "position": 6,
+        "title": "Perfume Coffee | MercadoLivre",
+        "link": "https://lista.mercadolivre.com.br/perfume-coffee",
+        "displayed_link": "https://lista.mercadolivre.com.br › ... › Perfumes",
+        "thumbnail": "https://serpapi.com/searches/61d78113af5af1a9779e08b4/images/5b5810d18bee265396959c4f1db0e6ae6f0458352ba31e810be1b3f80c3e41e2.jpeg",
+        "snippet": "Frete grátis no dia ✓ Compre Perfume Coffee parcelado sem juros! Saiba mais sobre nossas incríveis ofertas e promoções em milhões de produtos.",
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "avaliação": 4.1,
+              "votos": 12,
+              "price": 78.99,
+              "currency": "R$"
+            },
+            "extensions": [
+              "Avaliação: 4,1",
+              "‎12 votos",
+              "‎R$ 78,99",
+              "‎Em estoque"
+            ]
+          }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-U0TMElhbAoJ:https://lista.mercadolivre.com.br/perfume-coffee+&cd=12&hl=pt-BR&ct=clnk&gl=br"
+      }
+    ],
+    "related_searches": [
+      {
+        "query": "coffee tradução",
+        "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee+tradu%C3%A7%C3%A3o&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ1QJ6BAg7EAE"
+      },
+      {
+        "query": "coffee masculino",
+        "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee+masculino&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ1QJ6BAhNEAE"
+      },
+      {
+        "query": "coffee",
+        "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ1QJ6BAg_EAE"
+      },
+      {
+        "query": "coffee perfume",
+        "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee+perfume&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ1QJ6BAhKEAE"
+      },
+      {
+        "query": "coffee boticário",
+        "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee+Botic%C3%A1rio&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ1QJ6BAhGEAE"
+      },
+      {
+        "query": "coffee break",
+        "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee+break&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ1QJ6BAhEEAE"
+      },
+      {
+        "query": "coffee mais onde comprar",
+        "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee+mais+onde+comprar&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ1QJ6BAhLEAE"
+      },
+      {
+        "query": "coffee resenha",
+        "link": "https://www.google.com.br/search?hl=pt&gl=br&q=Coffee+resenha&sa=X&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ1QJ6BAg9EAE"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=10&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8NMDegQIAhBV",
+      "other_pages": {
+        "2": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=10&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBD",
+        "3": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=20&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBF",
+        "4": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=30&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBH",
+        "5": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=40&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBJ",
+        "6": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=50&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBL",
+        "7": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=60&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBN",
+        "8": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=70&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBP",
+        "9": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=80&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBR",
+        "10": "https://www.google.com.br/search?q=Coffee&hl=pt&gl=br&ei=F4HXYeCaIOvAytMP7eiFkAM&start=90&sa=N&ved=2ahUKEwiggqWsqZ71AhVroHIEHW10ATIQ8tMDegQIAhBT"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=Brazil&q=Coffee&start=90"
+      }
+    }
+  }
