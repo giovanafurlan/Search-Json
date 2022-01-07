@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <title>Google Search</title>
+</head>
+
+<style>
+    * {
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .container {
+        margin: 0 auto;
+        padding: 0 auto;
+    }
+
+    .logo {
+        width: 10vw;
+    }
+
+    .bar {
+        width: 60%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .search {
+        display: flex;
+        margin-top: 3vh;
+        float: left;
+    }
+
+    .searchTerm {
+        width: 50vw;
+        height: 5vh;
+        border: 0.5px solid lightgray;
+        border-right: none;
+        padding: 5px;
+        border-radius: 20px;
+        outline: none;
+    }
+
+    .searchButton {
+        background: none;
+        border: none;
+        font-size: 1.5vw;
+        color: lightslategray;
+        cursor: pointer;
+    }
+
+    .menu {
+        margin-left: 1vw;
+    }
+
+    .menu ul {
+        list-style: none;
+    }
+
+    .menu li {
+        display: inline;
+        margin-right: 8vw;
+
+    }
+
+    .menu .op:hover {
+        color: #0266C8 !important;
+        border-bottom: 3px solid #0266C8;
+    }
+
+    .menu li a {
+        color: black;
+        text-decoration: none;
+    }
+
+    .icone {
+        color: darkgrey;
+        margin: 0 3px 0 0;
+    }
+
+    hr {
+        border: none;
+        height: 0.5px;
+        color: lightgray;
+        background-color: lightgray;
+    }
+
+    .resultado {
+        width: 55%;
+        float: left;
+        margin-left: 3vw;
+    }
+
+    .resultado p {
+        color: black;
+    }
+
+    .info {
+        float: right;
+        border: 0.5px solid lightgrey;
+        width: 30%;
+        height: 30%;
+    }
+
+    .img {
+        width: 20vw;
+    }
+</style>
+
+<body>
+    <form action="" class="bar">
+        <nav class="search">
+            <input type="text" class="searchTerm search_information q" id="q">
+            <button class="searchButton" id="submit"><i class="fas fa-search"></i></button>
+        </nav>
+    </form>
+    <div id="dados"></div>
+</body>
+
+</html>
