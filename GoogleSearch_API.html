@@ -1,0 +1,93 @@
+<html>
+
+<head>
+    <title>Google Search API</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <!-- Adicionando JQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Adicionando Javascript -->
+    <script>
+        $(document).ready(function () {
+
+            function limpa_formulário_cep() {
+                // Limpa valores do formulário de cep.
+                $("#name").val("");
+                $("#status").val("");
+                $("#species").val("");
+                $("#type").val("");
+                $("#gender").val("");
+            }
+
+            //Quando o campo cep perde o foco.
+            $("#id").blur(function () {
+
+                var id = $(this).val()
+
+                //Verifica se campo cep possui valor informado.
+                if (id != "") {
+
+                    //Expressão regular para validar o CEP.
+                    //Valida o formato do CEP.
+
+                    //Preenche os campos com "..." enquanto consulta webservice.
+                    $("#name").val("..");
+                    $("#status").val("..");
+                    $("#species").val("..");
+                    $("#type").val("..");
+                    $("#gender").val("..");
+
+                    console.log(id)
+
+                    //Consulta o webservice viacep.com.br/
+                    $.getJSON("https://serpapi.com/search.json?engine=google&q=" + q +
+                        "&api_key=6681352881f290db8ec410f05bc6b9567276022001ad7812884fbac446d342d9",
+                        function (dados) {
+
+                            if (!("erro" in dados)) {
+                                //Atualiza os campos com os valores da consulta.
+                                $("#name").val(dados.organic_results.title);
+                                $("#status").val(dados.status);
+                                $("#species").val(dados.species);
+                                $("#type").val(dados.type);
+                                $("#gender").val(dados.gender);
+
+                                console.log(dados)
+                            } //end if.
+                            else {
+                                //CEP pesquisado não foi encontrado.
+                                limpa_formulário_cep();
+                                alert("Personagem não encontrado.");
+                            }
+                        });
+                } //end if.
+                else {
+                    //cep sem valor, limpa formulário.
+                    limpa_formulário_cep();
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <!-- Inicio do formulario -->
+    <form method="get" action=".">
+        <label>Busca:
+            <input name="id" type="text" id="id" value="" size="10" maxlength="9" /></label><br />
+        <label>Name:
+            <input name="name" type="text" id="name" size="60" /></label><br />
+        <label>Status:
+            <input name="status" type="text" id="status" size="60" /></label><br />
+        <label>Species:
+            <input name="species" type="text" id="species" size="40" /></label><br />
+        <label>Type:
+            <input name="type" type="text" id="type" size="40" /></label><br />
+        <label>Gender:
+            <input name="gender" type="text" id="gender" size="40" /></label><br />
+    </form>
+</body>
+
+</html>
